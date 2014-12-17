@@ -1,0 +1,12 @@
+{
+    "name": "kevinmgranger/empty-message-test-dependant",
+    "require": {
+	    "kevinmgranger/empty-message-test": "dev-master"
+    },
+    "repositories": [
+	    {
+		    "type": "git",
+		    "url": "git@github.com:KevinMGranger/empty-message-test.git"
+	    }
+    ]
+}
